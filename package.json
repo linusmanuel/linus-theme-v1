@@ -1,0 +1,23 @@
+{
+  "name": "linusthemev1",
+  "version": "1.0.0",
+  "description": "Um tema desenvolvido por Joao Lino e Nicasio Silva ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linusmanuel/linus-theme-v1.git"
+  },
+  "author": "Joao Lino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linusmanuel/linus-theme-v1/issues"
+  },
+  "homepage": "https://github.com/linusmanuel/linus-theme-v1#readme",
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.56.1"
+  }
+}
